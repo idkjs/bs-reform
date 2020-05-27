@@ -1,4 +1,5 @@
-# `bs-reform`
-[![Build Status](https://app.bitrise.io/app/7a8015b7814278c9/status.svg?token=dAyLaVmb7EOTtNXLitKKlg&branch=master)](https://app.bitrise.io/app/7a8015b7814278c9)
+# `bs-reform with reason-react@9.0.0-dev1`
 
 Check more at https://github.com/Astrocoders/reform
+
+

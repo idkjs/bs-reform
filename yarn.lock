@@ -2578,10 +2578,10 @@ reason-react-update@^1.0.0:
   resolved "https://registry.yarnpkg.com/reason-react-update/-/reason-react-update-1.0.0.tgz#c2e9f064fb665e24d35073a93f901c5792fdf36f"
   integrity sha512-apsqywkgcEnkAc7V9fOs5ikEmufgYkxcLu5fqYWQ2Atb4UlYnoN7P92Xal3izReyqfk41G4zHlPHwJhoq0xwIA==
 
-reason-react@0.9.0-dev.1:
-  version "0.9.0-dev.1"
-  resolved "https://registry.yarnpkg.com/reason-react/-/reason-react-0.9.0-dev.1.tgz#c9142431f02cb1d7cd56509ae94b1786abfd1e5b"
-  integrity sha512-HWyAfGfWNKaXZdwnuhSHd8RuQAZnGos7qUvTQsCuZS+xy0ZsqH6VDQGa3EfMxZJIhaMh+64W6YyHL1NATSBl4g==
+reason-react@0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/reason-react/-/reason-react-0.9.1.tgz#30a887158200b659aa03e2d75ff4cc54dc462bb0"
+  integrity sha512-nlH0O2TDy9KzOLOW+vlEQk4ExHOeciyzFdoLcsmmiit6hx6H5+CVDrwJ+8aiaLT/kqK5xFOjy4PS7PftWz4plA==
 
 regex-not@^1.0.0, regex-not@^1.0.2:
   version "1.0.2"
@@ -3285,9 +3285,9 @@ xml-name-validator@^3.0.0:
   integrity sha512-A5CUptxDsvxKJEU3yO6DuWBSJz/qizqzJKOMIfUJHETbBw/sFaDxgd6fxm1ewUaM0jZ444Fc5vC5ROYurg/4Pw==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yargs-parser@^13.1.2:
   version "13.1.2"
